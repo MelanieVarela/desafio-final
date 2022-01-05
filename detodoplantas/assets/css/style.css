@@ -1,0 +1,42 @@
+.menu{
+    background-color: #28A745;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.fw-500 { font-weight: 500; }
+.fw-300 { font-weight: 300; }
+
+.menu-footer{
+    background-color: white;
+    border-top:#707070A0 solid 0.3px;
+    text-align: right;
+}
+.container{
+    margin: 10px auto;}
+
+
+.menu-footer .precio-gris{
+     color: #707070;
+     font-size: 16px;
+}
+.menu-footer .precio-verde{
+    color:#28A745;
+    font-size: 20px;
+    padding-left: 15px;
+}
+.formulario{
+    margin: 15px;
+    background-color: #28A745;
+    padding: 10PX;
+}
+.btn.disabled, .btn:disabled, fieldset:disabled .btn{
+    opacity: 85;
+}
+.mb-3{
+    color: #707070;
+}
+.footer{
+    text-align: center;
+    margin: 15px;
+}

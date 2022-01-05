@@ -1,0 +1,43 @@
+body {font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: teal;
+}
+
+.header{
+    height: 20em;
+    padding: 0.5em;
+    font-size: 1em;
+    background-image: url("../imgs/portada.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.header h1,
+.header h2{
+    color:rgb(33, 113, 116)
+}
+.header h2 {
+    font-weight: 400;
+}
+
+.servicios{
+    width: 90%;
+    margin:auto;
+    ;
+}
+.servicios td{
+    border-style:groove;
+    background-color:rgba(255, 255, 255, 0.705);
+    width: 50%;
+    padding:2em
+}
+.servicios img {
+    width: 100%;
+    border:solid 1px #ddd
+}
+.footer{
+    height: 2em;
+    line-height: 1em;
+    background-color:white;
+    color: teal;
+    text-align: center;
+    font-weight: 800;
+}
